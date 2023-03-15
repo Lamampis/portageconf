@@ -6,9 +6,8 @@ Be sure to check the [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) to le
 
  Larry loves Gentoo (Linux)
 
- _______________________
 < Have you mooed today? >
- -----------------------
+ 
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
